@@ -1,0 +1,18 @@
+title: 'shahabhameed.github.io'
+description: "Personal website for Muhammad Shahab Hameed"
+baseurl: "/"
+url: "https://shahabhameed.github.io"
+
+header_pages:
+  - index.md
+  - shahabhameed.md
+  - contact.md
+
+style: dark
+
+# Build settings
+markdown: kramdown
+remote_theme: "itstorque/jekyll-shell-theme"
+
+exclude:
+  - local_cache/
