@@ -11,6 +11,7 @@ If you'd like to connect with me, please reach out! I can be best reached via e-
 
 # various links
 * Twitter: [@shahabhameed](https://twitter.com/shahabhameed)
+* LinkedIn: [@shahabhameed](https://www.linkedin.com/in/shahabhameed/)
 * GitHub: [shahabhameed](https://github.com/shahabhameed)
 * StackOverflow: [shahabhameed](https://stackoverflow.com/users/435597/muhammad-shahab)
 * Blog: [On the other side of the rainbow](https://shahabhameed.blogspot.com/)
