@@ -6,6 +6,7 @@ url: "https://shahabhameed.github.io"
 header_pages:
   - index.md
   - shahabhameed.md
+  - blog.md
   - contact.md
 
 style: dark
