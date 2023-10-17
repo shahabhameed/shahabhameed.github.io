@@ -14,4 +14,4 @@ Hi! If you've stumbled onto this page, you're probably lost, or something piqued
 * I'm very happy you made it this far
 
 ## more about me
-If any of the above sounds interesting and you'd like to learn more, please [contact](/contact) me! If you're not quite there yet, and need some more convincing, I invite you over to [my long-form intro](/shahabhameed), which is much more rambly, but also more informative!
+If any of the above sounds interesting, and you'd like to learn more, please [contact](/contact) me! If you're not quite there yet, and need some more convincing, I invite you over to [my long-form intro](/shahabhameed), which is much more rambly, but also more informative!

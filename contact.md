@@ -12,5 +12,5 @@ If you'd like to connect with me, please reach out! I can be best reached via e-
 # various links
 * Twitter: [@shahabhameed](https://twitter.com/shahabhameed)
 * GitHub: [shahabhameed](https://github.com/shahabhameed)
-* For all the movie-heads and film-buffs: my [Letterboxd](https://letterboxd.com/justlongenough/)
-* For everything else: you're already here, baby!!
+* StackOverflow: [shahabhameed](https://stackoverflow.com/users/435597/muhammad-shahab)
+* Blog: [On the other side of the rainbow](https://shahabhameed.blogspot.com/)
