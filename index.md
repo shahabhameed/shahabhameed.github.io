@@ -5,7 +5,7 @@ permalink: /
 permalink_name: /
 ---
 
-# muhammad shahab hameed * senior software engineer
+# muhammad shahab hameed * staff software engineer
 
 Hi! If you've stumbled onto this page, you're probably lost, or something piqued your interest on one of my social media presences. Provided most of my social media posts are tech related or random ramblings, I'm guessing it's the former. In any case, if you feel like reading forward, I'll do my best to give you a quick CliffsNotes version of an "about me" section, as you most certainly have more important things to do.
 
